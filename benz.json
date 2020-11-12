@@ -4,11 +4,11 @@
     "mercedesbenz"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "",
-  "app_id": "",
-  "admob_banner_id": "",
-  "admob_interstitial_id": "",
-  "admob_native_id": "",
+  "pub_id": "pub-1961763088641942",
+  "app_id": "ca-app-pub-1961763088641942~5575631867",
+  "admob_banner_id": "ca-app-pub-1961763088641942/4753504785",
+  "admob_interstitial_id": "ca-app-pub-1961763088641942/1213537416",
+  "admob_native_id": "ca-app-pub-1961763088641942/8501178101",
 
   "admob_hpk_1": "",
   "admob_hpk_2": "",
@@ -22,5 +22,5 @@
 
   "interstitial_inverval": 2,
 
-  "primary_ads": "FAN"
+  "primary_ads": "ADMOB"
 }
