@@ -9,18 +9,27 @@
   "admob_banner_id": "ca-app-pub-1961763088641942/5538542222",
   "admob_interstitial_id": "ca-app-pub-1961763088641942/2696934079",
   "admob_native_id": "ca-app-pub-1961763088641942/7718994764",
-
-  "admob_hpk_1": "crypto",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "plastic surgery",
-  "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insuranc",
+  
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
 
   "fan_banner_id": "",
   "fan_interstitial_id": "",
   "fan_native_id": "",
 
+  "mopub_banner_id": "1288a2de684c444c9ceab0fe0adbdebc",
+  "mopub_interstitial_id": "c5e68a9cd0bc4cde84f164acafbc97f0",
+  "mopub_native_id": "ef1d2c23059b47e68c94b1c88e2bdd9a",
+
   "interstitial_inverval": 2,
 
-  "primary_ads": "ADMOB"
+  "primary_ads": "MOPUB",
+  "list_ads": [
+    "MOPUB",
+    "ADMOB",
+    "FAN"
+  ]
 }
