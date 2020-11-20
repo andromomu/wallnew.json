@@ -12,8 +12,8 @@
         "startappid":"12345678",
         "fan_inter":"YOUR_PLACEMENT_ID",
         "fan_banner_native":"YOUR_PLACEMENT_ID",
-        "mopub_banner":"",
-        "mopub_inter":"",
+        "mopub_banner":"b195f8dd8ded45fe847ad89ed1d016da",
+        "mopub_inter":"24534e1901884e398f1253216226017e",
         "unityID":"",
         "unity_inter":"",
         "unity_banner":""
