@@ -8,7 +8,7 @@
         "nativeid": "ca-app-pub-3940256099942544/2247696110",
         "openid":"ca-app-pub-3940256099942544/1033173712",
         "interval": 1,
-        "pengaturan_iklan":"1",
+        "pengaturan_iklan":"4",
         "startappid":"12345678",
         "fan_inter":"YOUR_PLACEMENT_ID",
         "fan_banner_native":"YOUR_PLACEMENT_ID",
@@ -22,24 +22,24 @@
     ],
     
     "More":
-  [
+[
   {
     "id":1,
-    "judul":"Ludo King",
-    "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    "judul":"Cut Rope Rescue",
+    "image":"https://play-lh.googleusercontent.com/ZY7beREGHB40XGn6vot74npW2MbTmuVmMKYLElZnzKURYXxvfUx7042gdPjmUMX9bgHQ=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.RescueBoy.RopePuzzle"
   },
   {
     "id":2,
-    "judul":"Homescapes",
-    "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    "judul":"PN Pro Browser - Free VPN",
+    "image":"https://play-lh.googleusercontent.com/3sn0aNQ_lXLbHLYW0kiyiNQAW8MxhOPjcjj80wZjohe-mEFUt1aXCik2DcUYSteH1AWz=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.proxybrowser.antiblokir"
   },
   {
     "id":3,
-    "judul":"Minecraft",
-    "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    "judul":"Wood Turning 3D",
+    "image":"https://play-lh.googleusercontent.com/wJWHtZvc7UQB-tnxnqXwHPpz8STqlc4t6Y14lcCUhZNwkUNo6A_AciurPzWtEE0oooU=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.carinsurance.Woodturning3d"
   }
 ],
 
@@ -47,20 +47,26 @@
 "Categories": [
     {
       "id": 1,
-      "nama_cat": "Easy",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg"
+      "nama_cat": "Syarat Bantuan",
+      "gambar": "https://user-images.githubusercontent.com/63693514/97948090-09c99980-1dc2-11eb-9360-d4128fd0e51c.jpg"
      
     },
     {
       "id": 2,
-      "nama_cat": "Medium",
-      "gambar": "https://cdn02.indozone.id/re/content/2019/11/21/8Js7rN/t_5dd64b08483f2.jpg?w=700&q=85"
+      "nama_cat": "Cara Daftar Banpres UMKM",
+      "gambar": "https://user-images.githubusercontent.com/63693514/97948790-2cf54880-1dc4-11eb-86cb-37f1f61c93b1.jpg"
     
     },
     {
       "id": 3,
-      "nama_cat": "Hard",
-      "gambar": "https://i1.wp.com/cdn.surgatekno.com/2019/08/spesifikasi-game-lords-mobile.jpg?resize=554%2C336&ssl=1"
+      "nama_cat": "Link UMKM online",
+      "gambar": "https://user-images.githubusercontent.com/63693514/97949073-126f9f00-1dc5-11eb-9047-b178ea389828.jpg"
+    
+    },
+    {
+      "id": 4,
+      "nama_cat": "Info Banpres UMKM",
+      "gambar": "https://user-images.githubusercontent.com/63693514/97949073-126f9f00-1dc5-11eb-9047-b178ea389828.jpg"
     
     }
   ],
@@ -70,30 +76,40 @@
   {
     "id":1,
     "id_guide":"001",
-    "nama_cat":"Easy",
-    "judul":"Turnamen Indoesports League Mobile MON",
-    "image":"http://hexa.web.id/pubg.jpg",
-    "link":"http://hexa.web.id/guide_1.html",
-    "deskripsi":"Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile."
+    "nama_cat":"Syarat Bantuan",
+    "judul":"Syarat Bantuan UMKM",
+    "image":"https://user-images.githubusercontent.com/63693514/97948090-09c99980-1dc2-11eb-9360-d4128fd0e51c.jpg",
+    "link":"https://raw.githubusercontent.com/darwindroid/gambar/main/syaratumkm.html",
+    "deskripsi":"Adapun syarat yang harus dipenuhi untuk mendapatkan bantuan UMKM adalah sebagai berikut"
   },
   {
     "id":2,
      "id_guide":"002",
-    "nama_cat":"Easy",
-    "judul":"Trik Tersembunyi Lord Mobile MON",
-    "image":"file:///android_asset/gambar/ml.jpg",
-    "link":"file:///android_asset/guide_2.html",
-    "deskripsi":"Ini contoh deskripsi guide/tutorial ka dua pada json online,dengan data html dan gambar diambil dari folder assets aplikasi"
+    "nama_cat":"Cara Daftar",
+    "judul":"Cara Daftar Banpres UMKM",
+    "image":"https://user-images.githubusercontent.com/63693514/97948790-2cf54880-1dc4-11eb-86cb-37f1f61c93b1.jpg",
+    "link":"https://raw.githubusercontent.com/darwindroid/gambar/main/caradaftarumkm.html",
+    "deskripsi":"Berikut adalah cara daftar UMKM biar dapat Banpres Rp 2,4 juta"
   },
 
   {
     "id":3,
      "id_guide":"003",
-    "nama_cat":"Medium",
-    "judul":"Mobile Legend Update",
-    "image":"http://hexa.web.id/lord.jpg",
-    "link":"http://hexa.web.id/guide_2.html",
-    "deskripsi":"Ini contoh deskripsi guide/tutorial ka tiga pada json online, silahkan upload file html di hosting"
+    "nama_cat":"Link UMKM online",
+    "judul":"Link Daftar UMKM online",
+    "image":"https://user-images.githubusercontent.com/63693514/97949073-126f9f00-1dc5-11eb-9047-b178ea389828.jpg",
+    "link":"https://raw.githubusercontent.com/darwindroid/gambar/main/linknya.html",
+    "deskripsi":"Berikut link cara daftar UMKM online di beberapa wilayah:"
+  },
+
+  {
+    "id":4,
+     "id_guide":"004",
+    "nama_cat":"Info Banpres UMKM",
+    "judul":"Info dan pengertian Banpres UMKM",
+    "image":"https://user-images.githubusercontent.com/63693514/97948090-09c99980-1dc2-11eb-9360-d4128fd0e51c.jpg",
+    "link":"https://raw.githubusercontent.com/darwindroid/gambar/main/pengertian.html",
+    "deskripsi":"Berikut Info dan pengertian Banpres UMKM"
   }
 
 ]
