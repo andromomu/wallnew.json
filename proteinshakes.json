@@ -59,8 +59,8 @@
     },
     {
       "id": 3,
-      "nama_cat": "Link UMKM online",
-      "gambar": "https://user-images.githubusercontent.com/63693514/97949073-126f9f00-1dc5-11eb-9047-b178ea389828.jpg"
+      "nama_cat": "Peanut Butter Chocolate Protein Shake",
+      "gambar": "https://user-images.githubusercontent.com/63693514/99772791-019d8800-2b3e-11eb-8c87-cc228458a315.jpg"
     
     },
     {
@@ -95,11 +95,11 @@
   {
     "id":3,
      "id_guide":"003",
-    "nama_cat":"Link UMKM online",
-    "judul":"Link Daftar UMKM online",
-    "image":"https://user-images.githubusercontent.com/63693514/97949073-126f9f00-1dc5-11eb-9047-b178ea389828.jpg",
-    "link":"https://raw.githubusercontent.com/darwindroid/gambar/main/linknya.html",
-    "deskripsi":"Berikut link cara daftar UMKM online di beberapa wilayah:"
+    "nama_cat":"Peanut Butter Chocolate Protein Shake",
+    "judul":"Peanut Butter Chocolate Protein Shake Recipe",
+    "image":"https://user-images.githubusercontent.com/63693514/99772791-019d8800-2b3e-11eb-8c87-cc228458a315.jpg",
+    "link":"https://raw.githubusercontent.com/darwindroid/gambar/main/protein2.html",
+    "deskripsi":"Lets Try Peanut Butter Chocolate Protein Shake Recipe"
   },
 
   {
