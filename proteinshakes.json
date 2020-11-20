@@ -53,8 +53,8 @@
     },
     {
       "id": 2,
-      "nama_cat": "Cara Daftar Banpres UMKM",
-      "gambar": "https://user-images.githubusercontent.com/63693514/97948790-2cf54880-1dc4-11eb-86cb-37f1f61c93b1.jpg"
+      "nama_cat": "Cinnamon Roll Shake",
+      "gambar": "https://user-images.githubusercontent.com/63693514/99773705-686f7100-2b3f-11eb-91eb-0d9549080201.jpg"
     
     },
     {
@@ -85,11 +85,11 @@
   {
     "id":2,
      "id_guide":"002",
-    "nama_cat":"Cara Daftar",
-    "judul":"Cara Daftar Banpres UMKM",
-    "image":"https://user-images.githubusercontent.com/63693514/97948790-2cf54880-1dc4-11eb-86cb-37f1f61c93b1.jpg",
-    "link":"https://raw.githubusercontent.com/darwindroid/gambar/main/caradaftarumkm.html",
-    "deskripsi":"Berikut adalah cara daftar UMKM biar dapat Banpres Rp 2,4 juta"
+    "nama_cat":"Cinnamon Roll Shake",
+    "judul":"Cinnamon Roll Shake recipe",
+    "image":"https://user-images.githubusercontent.com/63693514/99773705-686f7100-2b3f-11eb-91eb-0d9549080201.jpg",
+    "link":"https://raw.githubusercontent.com/darwindroid/gambar/main/Protein3.html",
+    "deskripsi":"Awesome Cinnamon Roll Shake"
   },
 
   {
