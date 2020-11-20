@@ -47,8 +47,8 @@
 "Categories": [
     {
       "id": 1,
-      "nama_cat": "Syarat Bantuan",
-      "gambar": "https://user-images.githubusercontent.com/63693514/97948090-09c99980-1dc2-11eb-9360-d4128fd0e51c.jpg"
+      "nama_cat": "Vanilla Berry Protein Smoothie",
+      "gambar": "https://user-images.githubusercontent.com/63693514/99809150-75f31e00-2b74-11eb-98c6-56637cf8cc54.jpg"
      
     },
     {
@@ -76,10 +76,10 @@
   {
     "id":1,
     "id_guide":"001",
-    "nama_cat":"Syarat Bantuan",
-    "judul":"Syarat Bantuan UMKM",
-    "image":"https://user-images.githubusercontent.com/63693514/97948090-09c99980-1dc2-11eb-9360-d4128fd0e51c.jpg",
-    "link":"https://raw.githubusercontent.com/darwindroid/gambar/main/syaratumkm.html",
+    "nama_cat":"Vanilla Berry Protein Smoothie",
+    "judul":"Vanilla Berry Protein Smoothie Recipe",
+    "image":"https://user-images.githubusercontent.com/63693514/99809150-75f31e00-2b74-11eb-98c6-56637cf8cc54.jpg",
+    "link":"https://raw.githubusercontent.com/darwindroid/gambar/main/protein4.html",
     "deskripsi":"Adapun syarat yang harus dipenuhi untuk mendapatkan bantuan UMKM adalah sebagai berikut"
   },
   {
