@@ -47,8 +47,8 @@
 "Categories": [
     {
       "id": 1,
-      "nama_cat": "Easy",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg"
+      "nama_cat": "Tips 3",
+      "gambar": "https://user-images.githubusercontent.com/63693514/99929787-11f17500-2d81-11eb-8470-2b239e0e7520.jpg"
      
     },
     {
@@ -70,11 +70,11 @@
   {
     "id":1,
     "id_guide":"001",
-    "nama_cat":"Easy",
-    "judul":"Turnamen Indoesports League Mobile MON",
-    "image":"http://hexa.web.id/pubg.jpg",
-    "link":"http://hexa.web.id/guide_1.html",
-    "deskripsi":"Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile."
+    "nama_cat":"Tips 3",
+    "judul":"Cara Internet Gratis Kartu Telkomsel",
+    "image":"https://user-images.githubusercontent.com/63693514/99929787-11f17500-2d81-11eb-8470-2b239e0e7520.jpg",
+    "link":"https://darwindroid.github.io/gambar/inetgratis3.html",
+    "deskripsi":"Cara Mendapatkan Kuota Gratis Atau Cara Internet Gratis Kartu Telkomsel"
   },
   {
     "id":2,
