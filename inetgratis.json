@@ -47,7 +47,7 @@
 "Categories": [
     {
       "id": 1,
-      "nama_cat": "Tips 3",
+      "nama_cat": "Tips 1",
       "gambar": "https://user-images.githubusercontent.com/63693514/99929787-11f17500-2d81-11eb-8470-2b239e0e7520.jpg"
      
     },
@@ -59,7 +59,19 @@
     },
     {
       "id": 3,
-      "nama_cat": "Tips 1",
+      "nama_cat": "Tips 3",
+      "gambar": "https://user-images.githubusercontent.com/63693514/99929119-84ad2100-2d7e-11eb-8800-ca1949271f89.jpg"
+    
+    },
+    {
+      "id": 4,
+      "nama_cat": "Tips 4",
+      "gambar": "https://user-images.githubusercontent.com/63693514/99929119-84ad2100-2d7e-11eb-8800-ca1949271f89.jpg"
+    
+    },
+    {
+      "id": 5,
+      "nama_cat": "Tips 5",
       "gambar": "https://user-images.githubusercontent.com/63693514/99929119-84ad2100-2d7e-11eb-8800-ca1949271f89.jpg"
     
     }
@@ -70,7 +82,7 @@
   {
     "id":1,
     "id_guide":"001",
-    "nama_cat":"Tips 3",
+    "nama_cat":"Tips 1",
     "judul":"Cara Internet Gratis Kartu Telkomsel",
     "image":"https://user-images.githubusercontent.com/63693514/99929787-11f17500-2d81-11eb-8470-2b239e0e7520.jpg",
     "link":"https://darwindroid.github.io/gambar/inetgratis3.html",
@@ -89,7 +101,27 @@
   {
     "id":3,
      "id_guide":"003",
-    "nama_cat":"Tips 1",
+    "nama_cat":"Tips 3",
+    "judul":"Cara Mendapatkan Kuota Gratis",
+    "image":"https://user-images.githubusercontent.com/63693514/99929119-84ad2100-2d7e-11eb-8800-ca1949271f89.jpg",
+    "link":"https://darwindroid.github.io/gambar/gratisz.html",
+    "deskripsi":"Cara Mendapatkan Kuota Gratis Atau Cara Internet Gratis Dengan Mode Pesawat"
+  },
+
+  {
+    "id":4,
+     "id_guide":"004",
+    "nama_cat":"Tips 4",
+    "judul":"Cara Mendapatkan Kuota Gratis",
+    "image":"https://user-images.githubusercontent.com/63693514/99929119-84ad2100-2d7e-11eb-8800-ca1949271f89.jpg",
+    "link":"https://darwindroid.github.io/gambar/gratisz.html",
+    "deskripsi":"Cara Mendapatkan Kuota Gratis Atau Cara Internet Gratis Dengan Mode Pesawat"
+  },
+
+  {
+    "id":5,
+     "id_guide":"005",
+    "nama_cat":"Tips 5",
     "judul":"Cara Mendapatkan Kuota Gratis",
     "image":"https://user-images.githubusercontent.com/63693514/99929119-84ad2100-2d7e-11eb-8800-ca1949271f89.jpg",
     "link":"https://darwindroid.github.io/gambar/gratisz.html",
