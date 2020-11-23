@@ -66,13 +66,13 @@
     {
       "id": 4,
       "nama_cat": "Tips 4",
-      "gambar": "https://user-images.githubusercontent.com/63693514/99929119-84ad2100-2d7e-11eb-8800-ca1949271f89.jpg"
+      "gambar": "https://user-images.githubusercontent.com/63693514/99933229-fb511b00-2d8c-11eb-8412-31388a0aefc6.jpg"
     
     },
     {
       "id": 5,
       "nama_cat": "Tips 5",
-      "gambar": "https://user-images.githubusercontent.com/63693514/99929119-84ad2100-2d7e-11eb-8800-ca1949271f89.jpg"
+      "gambar": "https://user-images.githubusercontent.com/63693514/99933647-415aae80-2d8e-11eb-9479-09f0ac5c8568.jpg"
     
     }
   ],
@@ -112,20 +112,20 @@
     "id":4,
      "id_guide":"004",
     "nama_cat":"Tips 4",
-    "judul":"Cara Mendapatkan Kuota Gratis",
-    "image":"https://user-images.githubusercontent.com/63693514/99929119-84ad2100-2d7e-11eb-8800-ca1949271f89.jpg",
-    "link":"https://darwindroid.github.io/gambar/gratisz.html",
-    "deskripsi":"Cara Mendapatkan Kuota Gratis Atau Cara Internet Gratis Dengan Mode Pesawat"
+    "judul":"Cara Mendapatkan Kuota Gratis xl",
+    "image":"https://user-images.githubusercontent.com/63693514/99933229-fb511b00-2d8c-11eb-8412-31388a0aefc6.jpg",
+    "link":"https://darwindroid.github.io/gambar/inetgratis4.html",
+    "deskripsi":"Cara Mendapatkan Kuota Gratis dengan kartu XL"
   },
 
   {
     "id":5,
      "id_guide":"005",
     "nama_cat":"Tips 5",
-    "judul":"Cara Mendapatkan Kuota Gratis",
-    "image":"https://user-images.githubusercontent.com/63693514/99929119-84ad2100-2d7e-11eb-8800-ca1949271f89.jpg",
-    "link":"https://darwindroid.github.io/gambar/gratisz.html",
-    "deskripsi":"Cara Mendapatkan Kuota Gratis Atau Cara Internet Gratis Dengan Mode Pesawat"
+    "judul":"Cara Mendapatkan Kuota Gratis Tri",
+    "image":"https://user-images.githubusercontent.com/63693514/99933647-415aae80-2d8e-11eb-9479-09f0ac5c8568.jpg",
+    "link":"https://darwindroid.github.io/gambar/inetgratis5.html",
+    "deskripsi":"Cara Mendapatkan Kuota Gratis dengan karti tri"
   }
 
 ]
