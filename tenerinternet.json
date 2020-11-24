@@ -53,14 +53,14 @@
     },
     {
       "id": 2,
-      "nama_cat": "Medium",
-      "gambar": "https://cdn02.indozone.id/re/content/2019/11/21/8Js7rN/t_5dd64b08483f2.jpg?w=700&q=85"
+      "nama_cat": "two",
+      "gambar": "https://user-images.githubusercontent.com/63693514/100041766-99e88500-2e3c-11eb-8579-64c4db6fbb7f.jpg"
     
     },
     {
       "id": 3,
-      "nama_cat": "Hard",
-      "gambar": "https://i1.wp.com/cdn.surgatekno.com/2019/08/spesifikasi-game-lords-mobile.jpg?resize=554%2C336&ssl=1"
+      "nama_cat": "one",
+      "gambar": "https://user-images.githubusercontent.com/63693514/100041681-64439c00-2e3c-11eb-9b14-814d3bd67e8f.jpg"
     
     }
   ],
@@ -79,21 +79,21 @@
   {
     "id":2,
      "id_guide":"002",
-    "nama_cat":"Easy",
-    "judul":"Trik Tersembunyi Lord Mobile MON",
-    "image":"file:///android_asset/gambar/ml.jpg",
-    "link":"file:///android_asset/guide_2.html",
-    "deskripsi":"Ini contoh deskripsi guide/tutorial ka dua pada json online,dengan data html dan gambar diambil dari folder assets aplikasi"
+    "nama_cat":"two",
+    "judul":"Cómo obtener Internet gratis",
+    "image":"https://user-images.githubusercontent.com/63693514/100041766-99e88500-2e3c-11eb-8579-64c4db6fbb7f.jpg",
+    "link":"https://darwindroid.github.io/gambar/tener2.html",
+    "deskripsi":"métodos para conseguir tener internet gratis para tu móvil o Tablet"
   },
 
   {
     "id":3,
      "id_guide":"003",
-    "nama_cat":"Medium",
-    "judul":"Mobile Legend Update",
-    "image":"http://hexa.web.id/lord.jpg",
+    "nama_cat":"one",
+    "judul":"Configura la VPN de tu dispositivo",
+    "image":"https://user-images.githubusercontent.com/63693514/100041681-64439c00-2e3c-11eb-9b14-814d3bd67e8f.jpg",
     "link":"https://darwindroid.github.io/gambar/tener1.html",
-    "deskripsi":"Ini contoh deskripsi guide/tutorial ka tiga pada json online, silahkan upload file html di hosting"
+    "deskripsi":"método es necesario que realices unos pequeños ajustes en la VPN"
   }
 
 ]
