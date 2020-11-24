@@ -54,7 +54,7 @@
     {
       "id": 2,
       "nama_cat": "Medium",
-      "gambar": "https://cdn02.indozone.id/re/content/2019/11/21/8Js7rN/t_5dd64b08483f2.jpg?w=700&q=85"
+      "gambar": "https://user-images.githubusercontent.com/63693514/100062927-f8c0f500-2e62-11eb-8e00-4987ef714bdc.jpg"
     
     },
     {
@@ -80,10 +80,10 @@
     "id":2,
      "id_guide":"002",
     "nama_cat":"Easy",
-    "judul":"Trik Tersembunyi Lord Mobile MON",
-    "image":"file:///android_asset/gambar/ml.jpg",
-    "link":"file:///android_asset/guide_2.html",
-    "deskripsi":"Ini contoh deskripsi guide/tutorial ka dua pada json online,dengan data html dan gambar diambil dari folder assets aplikasi"
+    "judul":"Desde otras apps, programas o nubes de almacenamiento",
+    "image":"https://user-images.githubusercontent.com/63693514/100062927-f8c0f500-2e62-11eb-8e00-4987ef714bdc.jpg",
+    "link":"https://darwindroid.github.io/gambar/recuperar2.html",
+    "deskripsi":"Desde otras apps, programas o nubes de almacenamiento"
   },
 
   {
@@ -91,7 +91,7 @@
      "id_guide":"003",
     "nama_cat":"Medium",
     "judul":"Desde tu cuenta de Gmail",
-    "image":"http://hexa.web.id/lord.jpg",
+    "image":"https://user-images.githubusercontent.com/63693514/100061883-4ccada00-2e61-11eb-853d-24648d002d0f.jpg",
     "link":"https://darwindroid.github.io/gambar/recuperar1.html",
     "deskripsi":"Cuando sincronizas automáticamente los contactos de tu smartphone con tu cuenta de Google"
   }
