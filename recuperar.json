@@ -47,20 +47,20 @@
 "Categories": [
     {
       "id": 1,
-      "nama_cat": "Easy",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg"
+      "nama_cat": "three",
+      "gambar": "https://user-images.githubusercontent.com/63693514/100063685-26f30480-2e64-11eb-99e5-9692c4a1e33a.jpg"
      
     },
     {
       "id": 2,
-      "nama_cat": "Medium",
+      "nama_cat": "two",
       "gambar": "https://user-images.githubusercontent.com/63693514/100062927-f8c0f500-2e62-11eb-8e00-4987ef714bdc.jpg"
     
     },
     {
       "id": 3,
-      "nama_cat": "Hard",
-      "gambar": "https://i1.wp.com/cdn.surgatekno.com/2019/08/spesifikasi-game-lords-mobile.jpg?resize=554%2C336&ssl=1"
+      "nama_cat": "one",
+      "gambar": "https://user-images.githubusercontent.com/63693514/100061883-4ccada00-2e61-11eb-853d-24648d002d0f.jpg"
     
     }
   ],
@@ -70,16 +70,16 @@
   {
     "id":1,
     "id_guide":"001",
-    "nama_cat":"Easy",
-    "judul":"Turnamen Indoesports League Mobile MON",
-    "image":"http://hexa.web.id/pubg.jpg",
-    "link":"http://hexa.web.id/guide_1.html",
-    "deskripsi":"Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile."
+    "nama_cat":"three",
+    "judul":"Cambio de SIM",
+    "image":"https://user-images.githubusercontent.com/63693514/100063685-26f30480-2e64-11eb-99e5-9692c4a1e33a.jpg",
+    "link":"https://darwindroid.github.io/gambar/recuperar3.html",
+    "deskripsi":"Lo primero que hay que tener en cuenta es si la pérdida de los contactos se ha ocasionado por un cambio de SIM"
   },
   {
     "id":2,
      "id_guide":"002",
-    "nama_cat":"Easy",
+    "nama_cat":"two",
     "judul":"Desde otras apps, programas o nubes de almacenamiento",
     "image":"https://user-images.githubusercontent.com/63693514/100062927-f8c0f500-2e62-11eb-8e00-4987ef714bdc.jpg",
     "link":"https://darwindroid.github.io/gambar/recuperar2.html",
@@ -89,7 +89,7 @@
   {
     "id":3,
      "id_guide":"003",
-    "nama_cat":"Medium",
+    "nama_cat":"one",
     "judul":"Desde tu cuenta de Gmail",
     "image":"https://user-images.githubusercontent.com/63693514/100061883-4ccada00-2e61-11eb-853d-24648d002d0f.jpg",
     "link":"https://darwindroid.github.io/gambar/recuperar1.html",
