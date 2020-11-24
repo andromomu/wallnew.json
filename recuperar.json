@@ -60,7 +60,7 @@
     {
       "id": 3,
       "nama_cat": "Hard",
-      "gambar": "https://i1.wp.com/cdn.surgatekno.com/2019/08/spesifikasi-game-lords-mobile.jpg?resize=554%2C336&ssl=1"
+      "gambar": "https://user-images.githubusercontent.com/63693514/100061883-4ccada00-2e61-11eb-853d-24648d002d0f.jpg"
     
     }
   ],
@@ -90,9 +90,9 @@
     "id":3,
      "id_guide":"003",
     "nama_cat":"Medium",
-    "judul":"Mobile Legend Update",
-    "image":"http://hexa.web.id/lord.jpg",
-    "link":"http://hexa.web.id/guide_2.html",
+    "judul":"Desde tu cuenta de Gmail",
+    "image":"https://user-images.githubusercontent.com/63693514/100061883-4ccada00-2e61-11eb-853d-24648d002d0f.jpg",
+    "link":"https://darwindroid.github.io/gambar/recuperar1.html",
     "deskripsi":"Ini contoh deskripsi guide/tutorial ka tiga pada json online, silahkan upload file html di hosting"
   }
 
