@@ -8,15 +8,15 @@
         "nativeid": "ca-app-pub-3940256099942544/2247696110",
         "openid":"ca-app-pub-3940256099942544/1033173712",
         "interval": 2,
-        "pengaturan_iklan":"4",
+        "pengaturan_iklan":"5",
         "startappid":"210052541",
         "fan_inter":"YOUR_PLACEMENT_ID",
         "fan_banner_native":"YOUR_PLACEMENT_ID",
         "mopub_banner":"b195f8dd8ded45fe847ad89ed1d016da",
         "mopub_inter":"24534e1901884e398f1253216226017e",
-        "unityID":"",
-        "unity_inter":"",
-        "unity_banner":""
+        "unityID":"3913323",
+        "unity_inter":"inters",
+        "unity_banner":"ban"
      
         }
     ],
