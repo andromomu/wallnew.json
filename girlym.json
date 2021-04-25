@@ -24,9 +24,9 @@
   "mopub_interstitial_id": "8cd36691e9f24cb3bd00cddfdfd175b5",
   "mopub_native_id": "12f47a46be3748babeb0fedca3ee72ce",
 
-  "interstitial_inverval": 3,
+  "interstitial_inverval": 1,
 
-  "primary_ads": "ADMOB",
+  "primary_ads": "MOPUB",
   "list_ads": [
     "MOPUB",
     "ADMOB",
