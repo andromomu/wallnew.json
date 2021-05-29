@@ -73,7 +73,7 @@
     },
     {
       "id": 2,
-      "name_category": "Easy",
+      "name_category": "Medium",
       "title": "Trik Mantap Lord Mobile MON",
       "image": "https://media.suara.com/pictures/480x260/2020/06/26/57007-logo-mobile-legends-youtube-mobile-legends-bang-bang.jpg",
       "description": "Ini contoh description guide/tutorial ka dua pada json online,dengan data html dan gambar diambil dari folder assets aplikasi",
@@ -81,7 +81,7 @@
     },
     {
       "id": 3,
-      "name_category": "Medium",
+      "name_category": "Hard",
       "title": "Cara Mengakses Stimuluss",
       "image": "https://img.okezone.com/content/2020/08/04/16/2256942/piala-menpora-esport-2020-tampilkan-game-mobile-legends-bang-bang-oiczwialMq.jpg",
       "description": "Ini contoh description guide/tutorial ka tiga pada json online, silahkan upload file html di hosting",
