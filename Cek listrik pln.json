@@ -63,10 +63,10 @@
   ],
 
   "Data": [
-    {
+        {
       "id": 1,
       "name_category": "Easy",
-      "title": "Cek Subsidi",
+      "title": "Golongan Yang Mendapatkan",
       "image": "https://cdn-2.tstatic.net/pontianak/foto/bank/images/token-listrik-gratis-terbaru-jdsfc.jpg",
       "description": "Cek Disini Untuk Mendapatkan Subsidi",
       "link": "https://raw.githubusercontent.com/andromomu/pln/main/ceksubsidi.html"
@@ -74,13 +74,21 @@
     {
       "id": 2,
       "name_category": "Easy",
+      "title": "Cek Subsidi",
+      "image": "https://cdn-2.tstatic.net/pontianak/foto/bank/images/token-listrik-gratis-terbaru-jdsfc.jpg",
+      "description": "Cek Disini Untuk Mendapatkan Subsidi",
+      "link": "https://raw.githubusercontent.com/andromomu/pln/main/ceksubsidi.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Easy",
       "title": "Lewat Aplikasi PLN Mobile",
       "image": "https://www.g-national.com/wp-content/uploads/2020/12/Capture-2020-12-21-13.22.23.jpg",
       "description": "Cara Cek dari Aplikasi PLN Mobile",
       "link": "https://raw.githubusercontent.com/andromomu/pln/main/darimobile.html"
     },
     {
-      "id": 3,
+      "id": 4,
       "name_category": "Medium",
       "title": "Cara mengakses Stimulus",
       "image": "https://analisaaceh.com/wp-content/uploads/2020/04/token-listrik-gratis.jpg",
