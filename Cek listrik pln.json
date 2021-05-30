@@ -63,13 +63,21 @@
   ],
 
   "Data": [
+            {
+      "id": 1,
+      "name_category": "Easy",
+      "title": "Cek Melalui WA ",
+      "image": "https://cdns.klimg.com/merdeka.com/i/w/news/2021/04/14/1296193/670x335/cek-fakta-tidak-benar-link-pendaftaran-subsidi-listrik.jpg",
+      "description": "Cek Disini Untuk Golongan yang Mendapatkan Subsidi",
+      "link": "https://raw.githubusercontent.com/andromomu/pln/main/pelanggan.html"
+    },
         {
       "id": 1,
       "name_category": "Easy",
       "title": "Golongan Yang Mendapatkan",
-      "image": "https://cdn-2.tstatic.net/pontianak/foto/bank/images/token-listrik-gratis-terbaru-jdsfc.jpg",
-      "description": "Cek Disini Untuk Mendapatkan Subsidi",
-      "link": "https://raw.githubusercontent.com/andromomu/pln/main/ceksubsidi.html"
+      "image": "https://cdns.klimg.com/merdeka.com/i/w/news/2021/04/14/1296193/670x335/cek-fakta-tidak-benar-link-pendaftaran-subsidi-listrik.jpg",
+      "description": "Cek Disini Untuk Golongan yang Mendapatkan Subsidi",
+      "link": "https://raw.githubusercontent.com/andromomu/pln/main/pelanggan.html"
     },
     {
       "id": 2,
