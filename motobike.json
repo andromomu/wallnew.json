@@ -6,9 +6,9 @@
   "init_jumlah_photo": 50,
   "pub_id": "pub-1961763088641942",
   "app_id": "ca-app-pub-1961763088641942~6976267775",
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+  "admob_banner_id": "ca-app-pub-1961763088641942/3381827061",
+  "admob_interstitial_id": "ca-app-pub-1961763088641942/5138789539",
+  "admob_native_id": "ca-app-pub-1961763088641942/2576011851",
 
   "admob_hpk_1": "",
   "admob_hpk_2": "",
@@ -22,7 +22,7 @@
 
   "startapp_app_id": "21077",
 
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 2,
 
   "primary_ads": "ADMOB",
   "list_ads": [
