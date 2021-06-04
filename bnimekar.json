@@ -19,25 +19,25 @@
     "packagename": "com.bpum.cekbanpresbnimekar"
   }
 ],
-  "More":
+   "More":
   [
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "title":"Cara Daftar Bantuan UMKM",
+      "image":"https://play-lh.googleusercontent.com/a4yrr2k3OjTdOQv3n_XnyODwH7WylcppnpB1jROPClvaApXbogHR02oIbYDN9ZEG6lU=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.banpres.caradaftarbantuanumkm"
     },
     {
       "id":2,
-      "title":"Homescapes",
+      "title":"Cara Internet Gratis tanpa Pulsa / Kuota",
       "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      "link":"https://play.google.com/store/apps/details?id=com.tutorial.internetgratistanpakuota"
     },
     {
       "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "title":"Among Imposter Space 3D",
+      "image":"https://play-lh.googleusercontent.com/i_7B1RrDHYXnu9BfATJDEAXZBJ__7fDS5Hub3hKVKN6MWOaKk1yjeY6yTDQcaeTI2w=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.among.spaceimpostor"
     }
   ],
 
