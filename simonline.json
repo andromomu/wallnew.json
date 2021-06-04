@@ -44,20 +44,8 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Easy",
-      "image": "https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Medium",
-      "image": "https://img.okezone.com/content/2020/08/04/16/2256942/piala-menpora-esport-2020-tampilkan-game-mobile-legends-bang-bang-oiczwialMq.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Hard",
-      "image": "https://i1.wp.com/cdn.surgatekno.com/2019/08/spesifikasi-game-lords-mobile.jpg?resize=554%2C336&ssl=1"
+      "name_category": "SIM Online",
+      "image": "https://www.kba.one/files/images/20210414-6073deeb1c726.jpg"
 
     }
   ],
@@ -65,34 +53,34 @@
   "Data": [
         {
       "id": 1,
-      "name_category": "Easy",
-      "title": "Turnamen Indoesports League Mobile MON",
-      "image": "https://cdn0-production-images-kly.akamaized.net/HkEDZzR6N-0KxCRWMOC-ss8IlQk=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2115193/original/037405100_1524529114-Mobile-Legends-Tips.jpg",
-      "description": "Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile.",
+      "name_category": "SIM Online",
+      "title": "Via Aplikasi",
+      "image": "https://media.pricebook.co.id/article/5928fa6e150ba0c51d6d41f4/5928fa6e150ba0c51d6d41f4_1613049981.jpg",
+      "description": "Perpanjang Via Aplikasi Mobile",
       "link": "https://darwindroid.github.io/gambar/viaaplikasi.html"
     },
     {
       "id": 2,
-      "name_category": "Easy",
-      "title": "Turnamen Indoesports League Mobile MON",
-      "image": "https://cdn0-production-images-kly.akamaized.net/HkEDZzR6N-0KxCRWMOC-ss8IlQk=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2115193/original/037405100_1524529114-Mobile-Legends-Tips.jpg",
-      "description": "Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile.",
+      "name_category": "SIM Online",
+      "title": "Perpanjang Via Website",
+      "image": "https://s.garasi.id/c1200x675/q99/article/e01ebd45-4bda-4c97-ae5a-1ae0208d79ff.jpeg",
+      "description": "Cara Perpanjang Via Website",
       "link": "https://darwindroid.github.io/gambar/vaiwebsite.html"
     },
     {
       "id": 3,
-      "name_category": "Easy",
-      "title": "Trik Tersembunyi Lord Mobile MON",
-      "image": "https://media.suara.com/pictures/480x260/2020/06/26/57007-logo-mobile-legends-youtube-mobile-legends-bang-bang.jpg",
-      "description": "Ini contoh description guide/tutorial ka dua pada json online,dengan data html dan gambar diambil dari folder assets aplikasi",
+      "name_category": "SIM Online",
+      "title": "Dokumen",
+      "image": "https://i.ytimg.com/vi/Oi4tpEVSH8Y/maxresdefault.jpg",
+      "description": "Dokumen Yang harus dipersiapkan",
       "link": "https://darwindroid.github.io/gambar/dokumen.html"
     },
     {
       "id": 4,
-      "name_category": "Medium",
-      "title": "Mobile Legend Update",
-      "image": "https://img.okezone.com/content/2020/08/04/16/2256942/piala-menpora-esport-2020-tampilkan-game-mobile-legends-bang-bang-oiczwialMq.jpg",
-      "description": "Ini contoh description guide/tutorial ka tiga pada json online, silahkan upload file html di hosting",
+      "name_category": "SIM Online",
+      "title": "Syarat dan Ketentuan",
+      "image": "https://www.kba.one/files/images/20210414-6073deeb1c726.jpg",
+      "description": "Syarat dan Ketentuan Perpanjang sim online",
       "link": "https://darwindroid.github.io/gambar/ketentuan.html"
     }
   ]
