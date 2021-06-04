@@ -51,8 +51,16 @@
   ],
 
   "Data": [
-    {
+        {
       "id": 1,
+      "name_category": "Satu",
+      "title": "Syarat Pencairan",
+      "image": "https://i.ytimg.com/vi/GatoCe-ZYdI/maxresdefault.jpg",
+      "description": "Berikut Syarat Pencairan BPUM",
+      "link": "https://darwindroid.github.io/gambar/syarat%20pencairan.html"
+    },
+    {
+      "id": 2,
       "name_category": "Satu",
       "title": "Syarat Umum Penerima",
       "image": "https://nusantara.tekape.id/wp-content/uploads/2021/04/Capture8-1.jpg",
@@ -60,7 +68,7 @@
       "link": "https://darwindroid.github.io/gambar/syaratumum.html"
     },
     {
-      "id": 2,
+      "id": 3,
       "name_category": "Satu",
       "title": "Cara Cek BPUM",
       "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/12/03/3721171877.jpg",
@@ -68,7 +76,7 @@
       "link": "https://darwindroid.github.io/gambar/syaratbpum.html"
     },
     {
-      "id": 3,
+      "id": 4,
       "name_category": "Medium",
       "title": "Cek Penerima Banpres BNI Mekar",
       "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/11/27/1837325717.png",
