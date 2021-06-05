@@ -11,11 +11,11 @@
   "admob_native_id": "ca-app-pub-1961763088641942/4365677303",
 
 
-  "admob_hpk_1": "",
-  "admob_hpk_2": "",
-  "admob_hpk_3": "",
-  "admob_hpk_4": "",
-  "admob_hpk_5": "",
+  "admob_hpk_1": "crypto",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "plastic surgery",
+  "admob_hpk_4": "mobile",
+  "admob_hpk_5": "insurance",
 
   "fan_banner_id": "1015390622220580_1152704535155854",
   "fan_interstitial_id": "1015390622220580_1015391062220536",
