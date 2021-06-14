@@ -3,9 +3,9 @@
   "album": [
     "couple"
   ],
-  "init_jumlah_photo": 100,
-  "pub_id": "",
-  "app_id": "",
+  "init_jumlah_photo": 50,
+  "pub_id": "pub-1961763088641942",
+  "app_id": "ca-app-pub-1961763088641942~8763097941",
   "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
   "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
   "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
@@ -20,9 +20,9 @@
   "fan_interstitial_id": "",
   "fan_native_id": "",
 
-  "startapp_app_id": "21077",
+  "startapp_app_id": "205123465",
 
-  "interstitial_inverval": 1,
+  "interstitial_inverval": 2,
 
   "primary_ads": "ADMOB",
   "list_ads": [
