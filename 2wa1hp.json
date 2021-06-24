@@ -23,21 +23,21 @@
   [
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "title":"Cara Daftar Bantuan UMKM",
+      "image":"https://play-lh.googleusercontent.com/EoDEcMKegQXqelrLV3X6xHrZiFRelIWQrG_h5JSulk-fUqO5ubgFDNmDxeexdiXiWapE=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.banpres.caradaftarbantuanumkm"
     },
     {
       "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      "title":"Cara Internet Gratis tanpa Pulsa / Kuota",
+      "image":"https://play-lh.googleusercontent.com/a4yrr2k3OjTdOQv3n_XnyODwH7WylcppnpB1jROPClvaApXbogHR02oIbYDN9ZEG6lU=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.tutorial.internetgratistanpakuota"
     },
     {
       "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "title":"Among Imposter Space 3D",
+      "image":"https://play-lh.googleusercontent.com/i_7B1RrDHYXnu9BfATJDEAXZBJ__7fDS5Hub3hKVKN6MWOaKk1yjeY6yTDQcaeTI2w=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.among.spaceimpostor"
     }
   ],
 
@@ -46,18 +46,6 @@
       "id": 1,
       "name_category": "Easy",
       "image": "https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Medium",
-      "image": "https://img.okezone.com/content/2020/08/04/16/2256942/piala-menpora-esport-2020-tampilkan-game-mobile-legends-bang-bang-oiczwialMq.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Hard",
-      "image": "https://i1.wp.com/cdn.surgatekno.com/2019/08/spesifikasi-game-lords-mobile.jpg?resize=554%2C336&ssl=1"
 
     }
   ],
@@ -89,7 +77,7 @@
     },
     {
       "id": 4,
-      "name_category": "Medium",
+      "name_category": "Easy",
       "title": "Gunakan fitur Dual Messenger",
       "image": "https://cdn.idntimes.com/content-images/post/20201002/1-1e0b26cb4854734a902c73a5b79d9104.png",
       "description": "Cara Menggunakan fitur Dual Messenger",
