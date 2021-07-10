@@ -1,7 +1,7 @@
 {
   "Ads": [
   {
-    "select_ads": "ADMOB",
+    "select_ads": "MOPUB",
     "status_app": "0",
     "link_redirect": "https://",
     "admob_interid": "ca-app-pub-1961763088641942/6710948976",
@@ -11,8 +11,8 @@
     "startappid": "201669628",
     "fan_inter": "612492376332507_612493222999089",
     "fan_banner_native": "612492376332507_612492762999135",
-    "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
-    "mopub_inter": "24534e1901884e398f1253216226017e",
+    "mopub_banner": "5c223c3d98d94184aafa79ef1cc839f5",
+    "mopub_inter": "20cd7ce8f5b549eca0a595769eb77df2",
     "unityID": "3896203",
     "unity_inter": "video",
     "unity_banner": "bannerid",
