@@ -1,7 +1,7 @@
 {
   "Ads": [
   {
-    "select_ads": "MOPUB",
+    "select_ads": "UNITY",
     "status_app": "0",
     "link_redirect": "https://",
     "admob_interid": "ca-app-pub-1961763088641942/7087698397",
@@ -14,8 +14,8 @@
     "mopub_banner": "4b68838f4dec49a4a30874f9e4e7b4cc",
     "mopub_inter": "60c3118b00934af5be615aef4c145f45",
     "unityID": "3896203",
-    "unity_inter": "video",
-    "unity_banner": "bannerid",
+    "unity_inter": "Interstitial_Android",
+    "unity_banner": "Banner_Android",
     "packagename": "com.pelonumero.comoclonarwhataps"
   }
 ],
