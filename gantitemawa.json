@@ -1,7 +1,7 @@
 {
   "Ads": [
   {
-    "select_ads": "MOPUB",
+    "select_ads": "UNITY",
     "status_app": "0",
     "link_redirect": "https://",
     "admob_interid": "ca-app-pub-1961763088641942/6710948976",
@@ -14,8 +14,8 @@
     "mopub_banner": "5c223c3d98d94184aafa79ef1cc839f5",
     "mopub_inter": "20cd7ce8f5b549eca0a595769eb77df2",
     "unityID": "3896203",
-    "unity_inter": "video",
-    "unity_banner": "bannerid",
+    "unity_inter": "Interstitial_Android",
+    "unity_banner": "Banner_Android",
     "packagename": "com.caragantitemawa.gantibackgroundwa"
   }
 ],
