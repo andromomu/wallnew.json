@@ -1,7 +1,7 @@
 {
   "Ads": [
   {
-    "select_ads": "MOPUB",
+    "select_ads": "ADMOB",
     "status_app": "0",
     "link_redirect": "https://",
     "admob_interid": "ca-app-pub-1961763088641942/8126084958",
