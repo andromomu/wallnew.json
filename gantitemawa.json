@@ -1,21 +1,23 @@
 {
   "Ads": [
   {
-    "select_ads": "UNITY",
+   "select_ads": "ADMOB",
+    "select_backup_ads": "APPLOVIN",
+    "backup_mode": "1",
     "status_app": "0",
     "link_redirect": "https://",
     "admob_interid": "ca-app-pub-1961763088641942/6710948976",
     "admob_nativeid": "ca-app-pub-1961763088641942/4084785635",
     "admob_openid": "ca-app-pub-1961763088641942/5473835028",
-    "interval_intertitial": "1",
+    "interval_intertitial": 1,
     "startappid": "201669628",
-    "fan_inter": "612492376332507_612493222999089",
-    "fan_banner_native": "612492376332507_612492762999135",
+    "fan_inter": "YOUR_PLACEMENT_ID",
+    "fan_banner_native": "YOUR_PLACEMENT_ID",
+    "fan_banner": "YOUR_PLACEMENT_ID",
     "mopub_banner": "5c223c3d98d94184aafa79ef1cc839f5",
     "mopub_inter": "20cd7ce8f5b549eca0a595769eb77df2",
-    "unityID": "3896203",
-    "unity_inter": "Interstitial_Android",
-    "unity_banner": "Banner_Android",
+    "applovin_banner": "85cb1f5ed72628d6",
+    "applovin_inter": "e4ceedff5eb35d32",
     "packagename": "com.caragantitemawa.gantibackgroundwa"
   }
 ],
