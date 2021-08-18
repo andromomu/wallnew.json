@@ -1,21 +1,23 @@
 {
   "Ads": [
   {
-    "select_ads": "MOPUB",
+   "select_ads": "ADMOB",
+    "select_backup_ads": "APPLOVIN",
+    "backup_mode": "1",
     "status_app": "0",
     "link_redirect": "https://",
     "admob_interid": "ca-app-pub-1961763088641942/1706880793",
     "admob_nativeid": "ca-app-pub-1961763088641942/7789127312",
     "admob_openid": "ca-app-pub-1961763088641942/1032147270",
-    "interval_intertitial": "1",
+    "interval_intertitial": 1,
     "startappid": "206187020",
-    "fan_inter": "612492376332507_612493222999089",
-    "fan_banner_native": "612492376332507_612492762999135",
+    "fan_inter": "YOUR_PLACEMENT_ID",
+    "fan_banner_native": "YOUR_PLACEMENT_ID",
+    "fan_banner": "YOUR_PLACEMENT_ID",
     "mopub_banner": "bf65875a3f30421a9e065ceff402a1c7",
     "mopub_inter": "e45133ac56ae4ee3ae8000da78514bd4",
-    "unityID": "3896203",
-    "unity_inter": "video",
-    "unity_banner": "bannerid",
+    "applovin_banner": "2de017aebd2de779",
+    "applovin_inter": "cafa22ecbbadb0df",
     "packagename": "com.bpum.cekbanpresbnimekar"
   }
 ],
