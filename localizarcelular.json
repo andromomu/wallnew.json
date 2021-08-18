@@ -1,21 +1,23 @@
 {
   "Ads": [
   {
-    "select_ads": "UNITY",
+   "select_ads": "ADMOB",
+    "select_backup_ads": "APPLOVIN",
+    "backup_mode": "1",
     "status_app": "0",
     "link_redirect": "https://",
     "admob_interid": "ca-app-pub-1961763088641942/5274391022",
     "admob_nativeid": "ca-app-pub-1961763088641942/9834536842",
     "admob_openid": "ca-app-pub-1961763088641942/5274391022",
-    "interval_intertitial": "1",
+    "interval_intertitial": 1,
     "startappid": "201669628",
-    "fan_inter": "612492376332507_612493222999089",
-    "fan_banner_native": "612492376332507_612492762999135",
+    "fan_inter": "YOUR_PLACEMENT_ID",
+    "fan_banner_native": "YOUR_PLACEMENT_ID",
+    "fan_banner": "YOUR_PLACEMENT_ID",
     "mopub_banner": "9a2a2072f13c4534a940c29a3a525403",
     "mopub_inter": "c05492fa9e574811957dd34bf74d201a",
-    "unityID": "4201805",
-    "unity_inter": "Interstitial_Android",
-    "unity_banner": "Banner_Android",
+    "applovin_banner": "2563a37ccec4d23e",
+    "applovin_inter": "54a68548e1ed3f83",
     "packagename": "com.rastrearcelular.localizarcelularporelnumero"
   }
 ],
