@@ -1,0 +1,97 @@
+{
+  "Ads": [
+  {
+   "select_ads": "ADMOB",
+    "select_backup_ads": "APPLOVIN",
+    "backup_mode": "1",
+    "status_app": "0",
+    "link_redirect": "https://",
+    "admob_interid": "ca-app-pub-1961763088641942/2849336417",
+    "admob_nativeid": "ca-app-pub-1961763088641942/4384999111",
+    "admob_openid": "ca-app-pub-1961763088641942/1827118533",
+    "interval_intertitial": 1,
+    "startappid": "206600977",
+    "fan_inter": "YOUR_PLACEMENT_ID",
+    "fan_banner_native": "YOUR_PLACEMENT_ID",
+    "fan_banner": "YOUR_PLACEMENT_ID",
+    "mopub_banner": "411de0d83bb54bdf826d900b7310874f",
+    "mopub_inter": "99863fa891ef47a581498931bd51c836",
+    "applovin_banner": "afdbe9acdaec8799",
+    "applovin_inter": "87a9c05f1a581d3d",
+    "packagename": "com.tokenlistriksubsidi.ceklistrikplngratis"
+  }
+],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Cara Daftar Bantuan UMKM",
+      "image":"https://play-lh.googleusercontent.com/a4yrr2k3OjTdOQv3n_XnyODwH7WylcppnpB1jROPClvaApXbogHR02oIbYDN9ZEG6lU=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.banpres.caradaftarbantuanumkm"
+    },
+    {
+      "id":2,
+      "title":"Cara Internet Gratis tanpa Pulsa / Kuota",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.tutorial.internetgratistanpakuota"
+    },
+    {
+      "id":3,
+      "title":"Among Imposter Space 3D",
+      "image":"https://play-lh.googleusercontent.com/i_7B1RrDHYXnu9BfATJDEAXZBJ__7fDS5Hub3hKVKN6MWOaKk1yjeY6yTDQcaeTI2w=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.among.spaceimpostor"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Subsidi Listrik",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/12/01/3535632751.jpg"
+
+    }
+  ],
+
+  "Data": [
+            {
+      "id": 1,
+      "name_category": "Subsidi Listrik",
+      "title": "Cek Melalui Whatsapp ",
+      "image": "https://awsimages.detik.net.id/visual/2020/04/02/84576df2-ca5a-414f-a776-288c86cca3e3_169.jpeg?w=360&q=90",
+      "description": "Cara cek Melalui Whatsapp",
+      "link": "https://raw.githubusercontent.com/andromomu/pln/main/wa.html"
+    },
+        {
+      "id": 1,
+      "name_category": "Subsidi Listrik",
+      "title": "Golongan Yang Mendapatkan",
+      "image": "https://cdns.klimg.com/merdeka.com/i/w/news/2021/04/14/1296193/670x335/cek-fakta-tidak-benar-link-pendaftaran-subsidi-listrik.jpg",
+      "description": "Cek Disini Untuk Golongan yang Mendapatkan Subsidi",
+      "link": "https://raw.githubusercontent.com/andromomu/pln/main/pelanggan.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Subsidi Listrik",
+      "title": "Cek Subsidi",
+      "image": "https://cdn-2.tstatic.net/pontianak/foto/bank/images/token-listrik-gratis-terbaru-jdsfc.jpg",
+      "description": "Cek Disini Untuk Mendapatkan Subsidi",
+      "link": "https://raw.githubusercontent.com/andromomu/pln/main/ceksubsidi.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Subsidi Listrik",
+      "title": "Lewat Aplikasi PLN Mobile",
+      "image": "https://www.g-national.com/wp-content/uploads/2020/12/Capture-2020-12-21-13.22.23.jpg",
+      "description": "Cara Cek dari Aplikasi PLN Mobile",
+      "link": "https://raw.githubusercontent.com/andromomu/pln/main/darimobile.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Subsidi Listrik",
+      "title": "Cara mengakses Stimulus",
+      "image": "https://analisaaceh.com/wp-content/uploads/2020/04/token-listrik-gratis.jpg",
+      "description": "Berikut Beberapa Cara mengakses Stimulus PLN",
+      "link": "https://raw.githubusercontent.com/andromomu/pln/main/stimulus.html"
+    }
+  ]
+}
