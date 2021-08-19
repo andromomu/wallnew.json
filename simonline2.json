@@ -1,0 +1,89 @@
+{
+  "Ads": [
+  {
+   "select_ads": "ADMOB",
+    "select_backup_ads": "APPLOVIN",
+    "backup_mode": "1",
+    "status_app": "0",
+    "link_redirect": "https://",
+    "admob_interid": "ca-app-pub-1961763088641942/7041369460",
+    "admob_nativeid": "ca-app-pub-1961763088641942/6658226088",
+    "admob_openid": "ca-app-pub-1961763088641942/3840491054",
+    "interval_intertitial": 1,
+    "startappid": "201669628",
+    "fan_inter": "YOUR_PLACEMENT_ID",
+    "fan_banner_native": "YOUR_PLACEMENT_ID",
+    "fan_banner": "YOUR_PLACEMENT_ID",
+    "mopub_banner": "3227110f47de402299e89d47f2c3783a",
+    "mopub_inter": "16a4d4d57a204946ba9d61ab3927aba2",
+    "applovin_banner": "2df97410f8266584",
+    "applovin_inter": "786dd14355c63f92",
+    "packagename": "com.buatsim.perpanjangsimonline"
+  }
+],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Cara Daftar Bantuan UMKM",
+      "image":"https://play-lh.googleusercontent.com/a4yrr2k3OjTdOQv3n_XnyODwH7WylcppnpB1jROPClvaApXbogHR02oIbYDN9ZEG6lU=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.banpres.caradaftarbantuanumkm"
+    },
+    {
+      "id":2,
+      "title":"Cara Internet Gratis tanpa Pulsa / Kuota",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.tutorial.internetgratistanpakuota"
+    },
+    {
+      "id":3,
+      "title":"Among Imposter Space 3D",
+      "image":"https://play-lh.googleusercontent.com/i_7B1RrDHYXnu9BfATJDEAXZBJ__7fDS5Hub3hKVKN6MWOaKk1yjeY6yTDQcaeTI2w=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.among.spaceimpostor"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "SIM Online",
+      "image": "https://www.kba.one/files/images/20210414-6073deeb1c726.jpg"
+
+    }
+  ],
+
+  "Data": [
+        {
+      "id": 1,
+      "name_category": "SIM Online",
+      "title": "Via Aplikasi",
+      "image": "https://media.pricebook.co.id/article/5928fa6e150ba0c51d6d41f4/5928fa6e150ba0c51d6d41f4_1613049981.jpg",
+      "description": "Perpanjang Via Aplikasi Mobile",
+      "link": "https://darwindroid.github.io/gambar/viaaplikasi.html"
+    },
+    {
+      "id": 2,
+      "name_category": "SIM Online",
+      "title": "Perpanjang Via Website",
+      "image": "https://s.garasi.id/c1200x675/q99/article/e01ebd45-4bda-4c97-ae5a-1ae0208d79ff.jpeg",
+      "description": "Cara Perpanjang Via Website",
+      "link": "https://darwindroid.github.io/gambar/vaiwebsite.html"
+    },
+    {
+      "id": 3,
+      "name_category": "SIM Online",
+      "title": "Dokumen",
+      "image": "https://i.ytimg.com/vi/Oi4tpEVSH8Y/maxresdefault.jpg",
+      "description": "Dokumen Yang harus dipersiapkan",
+      "link": "https://darwindroid.github.io/gambar/dokumen.html"
+    },
+    {
+      "id": 4,
+      "name_category": "SIM Online",
+      "title": "Syarat dan Ketentuan",
+      "image": "https://www.kba.one/files/images/20210414-6073deeb1c726.jpg",
+      "description": "Syarat dan Ketentuan Perpanjang sim online",
+      "link": "https://darwindroid.github.io/gambar/ketentuan.html"
+    }
+  ]
+}
