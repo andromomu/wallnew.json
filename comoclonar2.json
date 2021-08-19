@@ -1,0 +1,80 @@
+{
+  "Ads": [
+  {
+   "select_ads": "ADMOB",
+    "select_backup_ads": "APPLOVIN",
+    "backup_mode": "1",
+    "status_app": "0",
+    "link_redirect": "https://",
+    "admob_interid": "ca-app-pub-1961763088641942/7087698397",
+    "admob_nativeid": "ca-app-pub-1961763088641942/5774616725",
+    "admob_openid": "ca-app-pub-1961763088641942/4460453487",
+    "interval_intertitial": 1,
+    "startappid": "201669628",
+    "fan_inter": "YOUR_PLACEMENT_ID",
+    "fan_banner_native": "YOUR_PLACEMENT_ID",
+    "fan_banner": "YOUR_PLACEMENT_ID",
+    "mopub_banner": "4b68838f4dec49a4a30874f9e4e7b4cc",
+    "mopub_inter": "60c3118b00934af5be615aef4c145f45",
+    "applovin_banner": "05b2bffb79b0b53f",
+    "applovin_inter": "0ef5bb8ade8c7e1f",
+    "packagename": "com.pelonumero.comoclonarwhataps"
+  }
+],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Cara Daftar Bantuan UMKM",
+      "image":"https://play-lh.googleusercontent.com/EoDEcMKegQXqelrLV3X6xHrZiFRelIWQrG_h5JSulk-fUqO5ubgFDNmDxeexdiXiWapE=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.banpres.caradaftarbantuanumkm"
+    },
+    {
+      "id":2,
+      "title":"Cara Internet Gratis tanpa Pulsa / Kuota",
+      "image":"https://play-lh.googleusercontent.com/a4yrr2k3OjTdOQv3n_XnyODwH7WylcppnpB1jROPClvaApXbogHR02oIbYDN9ZEG6lU=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.tutorial.internetgratistanpakuota"
+    },
+    {
+      "id":3,
+      "title":"Among Imposter Space 3D",
+      "image":"https://play-lh.googleusercontent.com/i_7B1RrDHYXnu9BfATJDEAXZBJ__7fDS5Hub3hKVKN6MWOaKk1yjeY6yTDQcaeTI2w=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.among.spaceimpostor"
+    }
+  ],
+
+  "Data": [
+        {
+      "id": 1,
+      "name_category": "Easy",
+      "title": "Usando o Parallel Space",
+      "image": "https://mashilmi.com/wp-content/uploads/2021/04/download-parallel-space-pro.jpg",
+      "description": "Usando o Parallel Space",
+      "link": "https://darwindroid.github.io/gambar/Usando%20o%20Parallel%20Space.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Easy",
+      "title": "Demais Fabricantes",
+      "image": "https://tedas.id/wp-content/uploads/2021/04/207.-wa-clone-762x445.jpg",
+      "description": "Como Usar o Demais fabricantes",
+      "link": "https://darwindroid.github.io/gambar/Demais%20fabricantes.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Easy",
+      "title": "usar o Dual Apps em aparelhos Xiaomy",
+      "image": "https://cdn.eraspace.com/pub/media/mageplaza/blog/post/z/p/zpqsztj7xcfhfmliird3rj-1200-80.jpg",
+      "description": "Como usar o Dual Apps em aparelhos Xiaomy",
+      "link": "https://darwindroid.github.io/gambar/aparelhos%20xiomay.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Easy",
+      "title": "Usar o Dual Messenger em aparelhos Samsun",
+      "image": "https://www.techadvisor.com/cmsdata/features/3702466/when-is-the-best-time-to-buy-samsung-galaxy-phone-main_thumb1200_4-3.png",
+      "description": "Como usar o Dual Messenger em aparelhos Samsun",
+      "link": "https://darwindroid.github.io/gambar/aparelhos%20Samsunl.html"
+    }
+  ]
+}
