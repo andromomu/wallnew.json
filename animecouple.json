@@ -6,7 +6,7 @@
   "init_jumlah_photo": 50,
   "pub_id": "pub-1961763088641942",
   "app_id": "ca-app-pub-2645249444311791~4831851906",
-  "admob_banner_id": "ca-app-pub-1961763088641942/644742090X",
+  "admob_banner_id": "ca-app-pub-1961763088641942/6447420904",
   "admob_interstitial_id": "ca-app-pub-1961763088641942/7568930889",
   "admob_native_id": "ca-app-pub-1961763088641942/4200531513",
 
@@ -20,7 +20,7 @@
   "fan_interstitial_id": "",
   "fan_native_id": "",
 
-  "interstitial_inverval": 2,
+  "interstitial_inverval": 4,
 
   "primary_ads": "ADMOB"
 }
