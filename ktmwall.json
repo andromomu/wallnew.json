@@ -22,9 +22,9 @@
 
   "startapp_app_id": "21077",
 
-  "interstitial_inverval": 2,
+  "interstitial_inverval": 1,
 
-  "primary_ads": "ADMOB",
+  "primary_ads": "STARTAPP",
   "list_ads": [
     "ADMOB",
     "STARTAPP",
