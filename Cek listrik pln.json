@@ -1,11 +1,11 @@
 {
   "Ads": [
   {
-    "select_ads": "ADMOB",
+    "select_ads": "MOPUB",
     "status_app": "0",
     "link_redirect": "https://",
     "admob_interid": "ca-app-pub-1961763088641942/2849336417",
-    "admob_nativeid": "ca-app-pub-1961763088641942/4384999111",
+    "admob_nativeid": "ca-app-pub-1961763088641942/438499911",
     "admob_openid": "ca-app-pub-1961763088641942/1827118533",
     "interval_intertitial": "3",
     "startappid": "206600977",
