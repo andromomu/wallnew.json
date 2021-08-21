@@ -24,7 +24,7 @@
 
   "interstitial_inverval": 2,
 
-  "primary_ads": "STARTAPP",
+  "primary_ads": "ADMOB",
   "list_ads": [
     "ADMOB",
     "STARTAPP",
