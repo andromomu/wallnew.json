@@ -2,8 +2,8 @@
   "Ads": [
   {
     "select_ads": "MOPUB",
-    "status_app": "0",
-    "link_redirect": "https://",
+    "status_app": "1",
+    "link_redirect": "https://play.google.com/store/apps/details?id=com.ceknamakontak.caramengetahuinamakontakkitadihporanglain",
     "admob_interid": "ca-app-pub-1961763088641942/7087698397",
     "admob_nativeid": "ca-app-pub-1961763088641942/5774616725",
     "admob_openid": "ca-app-pub-1961763088641942/4460453487",
